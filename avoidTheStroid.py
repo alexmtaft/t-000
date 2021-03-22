@@ -55,7 +55,7 @@ cx      = 250
 cy      = 350   
 C_XSIZE = 150
 C_YSIZE = 100
-C_DIST  = 7
+C_DIST  = 1
 
 
 astList = []
