@@ -42,10 +42,7 @@ to run just call `python` out directly:
 ```
 $ python avoidTheStroid.py
 ```
-=======
 
 
-3. MacOs (no others have been tried)
-* as of 2021/02/18 running with `macOS catalina 10.15.7` worked
 
 
