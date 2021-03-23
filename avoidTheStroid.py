@@ -18,7 +18,7 @@ pygame.display.set_caption('Avoid the Stroid')
 
 clock = pygame.time.Clock() 
 
-shipImage = pygame.image.load('ship.png').convert()
+shipImage = pygame.image.load('./images/ship.png').convert()
 shipRect = shipImage.get_rect()
 
 # ==================================================
@@ -38,7 +38,7 @@ class astroid():
 
     def __init__(self):
         self.x = random.randint(0,400)
-        self.stroidImage = pygame.image.load('stroid.png').convert()
+        self.stroidImage = pygame.image.load('./images/stroid.png').convert()
         self.sRect = self.stroidImage.get_rect()
 
     def draw(self):

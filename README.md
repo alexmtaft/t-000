@@ -1,4 +1,6 @@
 
+![gameplay](./images/gameplay.png)
+
 requirements: 
 1. `python3`
 * there are problems with vanilla MacOs using the wrong (older python version). may need to poke around and make sure python3 is
@@ -43,6 +45,7 @@ to run just call `python` out directly:
 $ python avoidTheStroid.py
 ```
 
+press "enter" after losing to exit game (and with avoid-the-stroid window)
 
 
 
